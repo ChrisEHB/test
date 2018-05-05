@@ -1,1 +1,1 @@
-<script>document.title="grappig man"</script>
+<script>document.getElementById("h1").innerHTML = "grappig man"</script>
